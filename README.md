@@ -135,6 +135,43 @@ Designed for agencies, developers, and businesses that require secure, scalable 
 
 ---
 
+== 🌟 About GSheetConnector ==
+
+Part of the GSheetConnector suite, supporting over 80,000 WordPress users worldwide across multiple Google Sheets integrations.
+
+GSheetConnector is a growing suite of Google Sheets integration plugins trusted by thousands of WordPress users across Free and Pro versions. Our plugins help automate form submissions, orders, and content synchronization with Google Sheets — without writing code.
+
+---
+
+== ⚡ Live Demo ==
+
+Elementor Forms Live Demo:  
+https://demo.gsheetconnector.com/elementor-forms-gsheetconnector-pro/
+
+View Sample Google Sheet Data:  
+https://docs.google.com/spreadsheets/d/1Ftht9knBeuzcvZlzM4Wz6L8qsV4PiDU5ukFlFq9M6PU/edit
+
+---
+
+== 🔗 Related Google Sheets Connector Plugins ==
+
+GSheetConnector also provides Google Sheets integrations for other popular WordPress plugins:
+
+• Contact Form 7 – Sync Contact Form 7 submissions to Google Sheets  
+• WPForms – Automatically export WPForms entries to Google Sheets  
+• Gravity Forms – Send Gravity Forms submissions to Google Sheets  
+• Ninja Forms – Export Ninja Forms entries to Google Sheets  
+• Formidable Forms – Connect Formidable Forms data to Google Sheets  
+• Fluent Forms – Sync Fluent Forms submissions to Google Sheets  
+• WooCommerce – Export WooCommerce orders, products, and customers to Google Sheets  
+• Divi Forms – Integrate Divi form submissions with Google Sheets (Pro)  
+• Avada Forms – Send Avada form entries to Google Sheets (Pro)  
+• WordPress Core – Import and export posts and pages using Google Sheets (Pro)
+
+Explore more integrations at:  
+https://www.gsheetconnector.com/
+
+
 == Important Notes ==
 
 Ensure your Google Sheet Name, Sheet ID, Tab Name, Tab ID, and Column Headers match exactly with the values entered in the plugin settings. Incorrect details may prevent proper Elementor to Google Sheets synchronization.
